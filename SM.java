@@ -6,6 +6,7 @@ class Student {
     float[] marks = new float[3];
 
     void input(Scanner sc) {
+        
         System.out.print("Enter name: ");
         name = sc.next();
         System.out.print("Enter roll number: ");
