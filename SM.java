@@ -7,7 +7,6 @@ class Student {
 
     void input(Scanner sc) {
         
-        
         System.out.print("Enter name: ");
         
         name = sc.next();
